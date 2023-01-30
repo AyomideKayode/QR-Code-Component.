@@ -18,12 +18,14 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./images/![Screenshot from PC](./qr-code-component-main/images/)
+![][Screenshot from PC](./QR-Code_Component%201.png)
+![][Screenshot from PC](./QR-Code_Component%202.png)
+![][Screenshot from PC](./QR-Code_Component%203.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/AyomideKayode/QR-Code-Component.)
+- Live Site URL: [Add live site URL here](https://ay-qr-code-component-frontendmentor.netlify.app/)
 
 ## My process
 

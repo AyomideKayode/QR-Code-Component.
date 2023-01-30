@@ -11,14 +11,15 @@ img {
 }
 
 body {
-    max-width: 1110px;
     font-family: "Outfit";
     background: rgb(179, 218, 221);
    }
    
 .container {
-     position: relative;
-   }
+  max-width: 1110px;
+  margin-inline: auto;
+  position: relative;
+  }
    
 .container > img {
     width: 90px;
@@ -61,6 +62,9 @@ body {
    }
    
 @media (max-width: 50em) {
+  .container {
+    margin-inline: auto;
+  }
     .card {
       position: absolute;
       left: 35%;
@@ -74,6 +78,9 @@ body {
    }
    
 @media (max-width: 30em) {
+  .container {
+    margin-inline: auto;
+  }
     .card {
       position: absolute;
       left: 20%;
